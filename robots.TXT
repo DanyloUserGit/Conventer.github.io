@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow:
+Allow: /index.html
+Host: https://danylousergit.github.io/Conventer.github.io/
